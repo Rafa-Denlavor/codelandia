@@ -1,0 +1,13 @@
+.news__container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: left;
+   padding: 1rem;
+   background-color: var(--white);
+   margin: 2rem 0;
+   height: auto;
+   width: 100%;
+   border-radius: 4px;
+   box-shadow: 2px var(--title);
+}

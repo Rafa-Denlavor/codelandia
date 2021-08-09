@@ -1,0 +1,15 @@
+#header {
+   background: var(--linear);
+}
+
+@media screen and (min-width: 0) {
+   #header {
+      padding: 2.5rem 2rem;
+   }
+}
+
+@media screen and (min-width: 1025px) {
+   #header {
+      padding: 2.5rem 20rem;
+   }
+}

@@ -1,0 +1,5 @@
+.news__title {
+   color: var(--title);
+   padding: 0.8rem 0;
+   font-family: Inter-Regular;
+}

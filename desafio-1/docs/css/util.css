@@ -1,0 +1,52 @@
+/*RESET*/
+
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+} *
+
+main {
+   background-color: var(--gray-100);
+}
+
+@font-face {
+   font-family: Inter-Medium;
+   src: url('../font/Inter-Medium.ttf');
+}
+
+@font-face {
+   font-family: Inter-Regular;
+   src: url('../font/Inter-Regular.ttf');
+}
+
+@font-face {
+   font-family: LexendDeca;
+   src: url('../font/LexendDeca-Regular.ttf');
+}
+
+:root {
+   --blue: #3EA1DB;
+   --blue-dark: #574AE8;
+   --white: #FFF;
+
+   --title: #313131;
+   --text: #B6B6B6;
+   --gray-100: #eee;
+   
+   --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+ }
+
+ @media screen and (min-width: 0) {
+   main {
+      padding: 2rem 2rem;
+   }
+}
+
+@media screen and (min-width: 1025px) {
+   main {
+      padding: 2.5rem 20rem;
+   }
+}
+
+ 

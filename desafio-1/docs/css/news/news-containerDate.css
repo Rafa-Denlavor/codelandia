@@ -1,0 +1,8 @@
+.news__containerDate {
+   display: flex;
+   justify-content: space-between;
+}
+
+.news__containerDate i {
+   color: var(--blue-dark);
+}

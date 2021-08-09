@@ -1,0 +1,5 @@
+.news__description {
+   color: var(--text);
+   font-family: Inter-Medium;
+   line-height: 1.5rem;
+}
