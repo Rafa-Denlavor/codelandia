@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/rafa-denlavor/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/rafa-denlavor/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/rafa-denlavor/README-template?style=for-the-badge)
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="docs/img/codelandia.png" alt="Projeto completo">
 
 > Se trata de uma comunidade no Discord criada por Iuricode, onde mensalmente é adicionado desafios de código para desenvolvedores aprimorarem suas habilidades.
 
