@@ -1,0 +1,11 @@
+.header__input {
+   background-color: transparent;
+   border: none;
+   color: var(--text);
+   width: 90%;
+}
+
+.header__input:focus {
+   outline: none;
+   box-shadow: none;
+}
