@@ -35,6 +35,11 @@ main {
    --gray-100: #eee;
    
    --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+   --search: linear-gradient(90deg, #7468f5 0%, #5cb8ee 100%);
+ }
+
+ ::placeholder {
+    color: var(--white);
  }
 
  @media screen and (min-width: 0) {

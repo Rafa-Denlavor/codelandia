@@ -1,0 +1,11 @@
+.header__containerSearch {
+   background: var(--search);
+   padding: 0.8rem 0.8rem;
+   border-radius: 4px;
+   margin-top: 2rem;
+}
+
+.header__containerSearch i {
+   padding-right: 0.5rem;
+   color: var(--white);
+}
