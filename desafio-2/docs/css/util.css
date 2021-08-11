@@ -3,14 +3,6 @@
    padding: 0;
 }*
 
-html {
-   font-size: 62,5%;
-}
-
-body {
-   font-size: 1.6rem;
-}
-
 :root {
    --bgSite: #f6f6f6;
    --bgCard: #ebe9ea;
@@ -22,17 +14,17 @@ body {
  }
 
  @font-face {
-    font-family: MontSerrat-bold;
+    font-family: Montserrat-bold;
     src: url('../fonts/Montserrat-Bold.ttf');
  }
 
  @font-face {
-   font-family: MontSerrat-medium;
+   font-family: Montserrat-medium;
    src: url('../fonts/Montserrat-Medium.ttf');
 }
 
 @font-face {
-   font-family: MontSerrat-semibold;
+   font-family: Montserrat-semibold;
    src: url('../fonts/Montserrat-SemiBold.ttf');
 }
 
