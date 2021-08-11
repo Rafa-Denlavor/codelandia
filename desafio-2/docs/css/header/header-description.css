@@ -1,0 +1,11 @@
+.header__description, .header__title {
+   width: 100%;
+   text-align: center;
+}
+
+.header__description {
+   background-color: var(--title);
+   color: var(--white);
+   font-family: Montserrat-medium;
+   padding: 1.4rem;
+}

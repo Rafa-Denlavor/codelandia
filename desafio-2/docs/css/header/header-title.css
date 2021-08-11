@@ -1,0 +1,6 @@
+.header__title {
+   background-color: var(--bgSite);
+   font-family: Montserrat-semibold;
+   color: var(--title);
+   padding: 1.2rem;
+}
