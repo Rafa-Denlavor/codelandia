@@ -1,0 +1,6 @@
+.highlights__image {
+   background-color: var(--bgCard);
+   padding: 3rem 0px;
+   width: 22rem;
+   margin: 0 0.4rem 2rem 0.4rem;
+}
