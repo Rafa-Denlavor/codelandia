@@ -1,0 +1,7 @@
+.footer__description {
+   text-align: center;
+   background-color: var(--title);
+   color: var(--white);
+   font-family: 'Montserrat-medium';
+   padding: 1.2rem;
+}
