@@ -1,0 +1,9 @@
+.banner__title, .banner__description {
+   color: white;
+}
+
+.banner__title {
+   font-family: Montserrat-bold;
+   font-size: 24px;
+   padding-bottom: 1.3rem;
+}
