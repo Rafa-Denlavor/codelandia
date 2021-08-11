@@ -1,0 +1,38 @@
+*{
+   margin: 0;
+   padding: 0;
+}*
+
+html {
+   font-size: 62,5%;
+}
+
+body {
+   font-size: 1.6rem;
+}
+
+:root {
+   --bgSite: #f6f6f6;
+   --bgCard: #ebe9ea;
+   
+   --white: #fff;
+ 
+   --title: #181818;
+   --text: #474747;
+ }
+
+ @font-face {
+    font-family: MontSerrat-bold;
+    src: url('../fonts/Montserrat-Bold.ttf');
+ }
+
+ @font-face {
+   font-family: MontSerrat-medium;
+   src: url('../fonts/Montserrat-Medium.ttf');
+}
+
+@font-face {
+   font-family: MontSerrat-semibold;
+   src: url('../fonts/Montserrat-SemiBold.ttf');
+}
+
